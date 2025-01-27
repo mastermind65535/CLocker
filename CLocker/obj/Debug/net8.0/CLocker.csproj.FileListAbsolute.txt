@@ -1,0 +1,14 @@
+C:\Users\maste\source\repos\CLocker\CLocker\bin\Debug\net8.0\CLocker.exe
+C:\Users\maste\source\repos\CLocker\CLocker\bin\Debug\net8.0\CLocker.deps.json
+C:\Users\maste\source\repos\CLocker\CLocker\bin\Debug\net8.0\CLocker.runtimeconfig.json
+C:\Users\maste\source\repos\CLocker\CLocker\bin\Debug\net8.0\CLocker.dll
+C:\Users\maste\source\repos\CLocker\CLocker\bin\Debug\net8.0\CLocker.pdb
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.AssemblyInfo.cs
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.dll
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\refint\CLocker.dll
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.pdb
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\CLocker.genruntimeconfig.cache
+C:\Users\maste\source\repos\CLocker\CLocker\obj\Debug\net8.0\ref\CLocker.dll

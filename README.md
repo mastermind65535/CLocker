@@ -4,8 +4,6 @@
 ## Screenshots
 <img src="screenshot.png">
 <img src="screenshot2.png">
-<img src="screenshot3.png">
-<img src="screenshot4.png">
 
 # Disclaimer
 > This software is intended ***exclusively for educational purposes and ethical cybersecurity research***. It is designed to help users understand potential vulnerabilities in systems so they can improve their security.
@@ -36,12 +34,3 @@ public static string __KILL_SWITCH = "KILL_SWITCH_SERVER"; // i.e. http://localh
 ```
 > 
 > **The kill switch will be automatically activate if the program cannot "access" to the link. This means if your kill switch server is NOT active, it will shutdown.**
-> ## Manual Compilation
-> 1. Load the **SharpCry.sln** in [Visual Studio 2022](https://visualstudio.microsoft.com/vs/).<br>
-> 2. **Publish** the solution.<br>
-> 3. Go to **bin/Release/net8.0/win-x64/publish/win-x64/**
-> 4. Use the **SharpCry.exe**.<br>
-> ## Prebuilt Executable
-> **!WARNING! Prebuilt executable does not support remote server. This mean the program ONLY works on your device.**<br>
-> 1. Go to project directory and find **bin/Release/net8.0/win-x64/publish/win-x64/**.<br>
-> 2. Use the **SharpCry.exe**.<br>

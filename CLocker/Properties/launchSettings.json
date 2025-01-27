@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLocker": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug\r\n--force\r\n--sandbox"
+    }
+  }
+}

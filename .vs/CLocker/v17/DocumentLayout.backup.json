@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\source\\repos\\CLocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96ABC370-475D-4B0C-9637-11F050951DE3}|CLocker\\CLocker.csproj|c:\\users\\maste\\source\\repos\\clocker\\clocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABC370-475D-4B0C-9637-11F050951DE3}|CLocker\\CLocker.csproj|solutionrelative:clocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\CLocker\\CLocker\\Program.cs",
+              "RelativeDocumentMoniker": "CLocker\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\CLocker\\CLocker\\Program.cs",
+              "RelativeToolTip": "CLocker\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwD8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:58:43.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
